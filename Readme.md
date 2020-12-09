@@ -1,1 +1,1 @@
-A simple django app for CRUD operation
+A simple django app for CRUD operation test
